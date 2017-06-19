@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="start_game">Start Game</string>
+    <string name="enter_user_name">Enter User Name</string>
+</resources>
